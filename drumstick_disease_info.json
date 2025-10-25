@@ -1,0 +1,184 @@
+{
+  "Yellowing": {
+    "fertilizer": "Nitrogen-rich fertilizers",
+    "water": "Moderate, 70%",
+    "medicine": ["Balanced micronutrients"],
+    "organic_medicine": ["Compost", "Neem cake"],
+    "prevention": "Ensure proper irrigation and soil nutrition."
+  },
+  "Termites": {
+    "fertilizer": "Phosphorus and Potassium supplements",
+    "water": "60%",
+    "medicine": ["Termiticide spray"],
+    "organic_medicine": ["Neem oil", "Tobacco extract"],
+    "prevention": "Remove infested wood and maintain soil health."
+  },
+  "Twig Blight  Dieback": {
+    "fertilizer": "Potassium-rich fertilizers",
+    "water": "70%",
+    "medicine": ["Fungicide spray"],
+    "organic_medicine": ["Neem extract"],
+    "prevention": "Prune affected twigs and avoid overhead irrigation."
+  },
+  "twig canker": {
+    "fertilizer": "Balanced NPK",
+    "water": "65%",
+    "medicine": ["Copper-based fungicides"],
+    "organic_medicine": ["Neem cake paste"],
+    "prevention": "Prune infected branches and maintain tree vigor."
+  },
+  "Whiteflies": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "60%",
+    "medicine": ["Insecticide spray"],
+    "organic_medicine": ["Neem oil", "Garlic extract"],
+    "prevention": "Use yellow sticky traps and control weeds."
+  },
+  "Root Rot  Collar Rot": {
+    "fertilizer": "Phosphorus-rich fertilizers",
+    "water": "Reduce to 50%",
+    "medicine": ["Fungicide drenches"],
+    "organic_medicine": ["Neem cake", "Vermicompost"],
+    "prevention": "Ensure proper drainage and avoid waterlogging."
+  },
+  "Sooty Mould": {
+    "fertilizer": "Balanced NPK",
+    "water": "Moderate",
+    "medicine": ["Fungicide spray"],
+    "organic_medicine": ["Soap solution spray"],
+    "prevention": "Control sap-sucking insects to reduce mold."
+  },
+  "Stem Borer": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["Insecticide application"],
+    "organic_medicine": ["Neem seed powder"],
+    "prevention": "Remove and destroy affected stems."
+  },
+  "Stem Rot": {
+    "fertilizer": "Potassium-rich fertilizer",
+    "water": "Reduce",
+    "medicine": ["Fungicide spray"],
+    "organic_medicine": ["Neem cake"],
+    "prevention": "Avoid waterlogging and prune affected stems."
+  },
+  "Leaf Curl": {
+    "fertilizer": "Nitrogen-based fertilizers",
+    "water": "Moderate",
+    "medicine": ["Insecticide and fungicide spray"],
+    "organic_medicine": ["Neem oil"],
+    "prevention": "Remove infected leaves and control aphids."
+  },
+  "Leaf Webber": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["Insecticide spray"],
+    "organic_medicine": ["Neem oil", "Garlic extract"],
+    "prevention": "Handpick larvae and maintain hygiene."
+  },
+  "Odontotermes spp": {
+    "fertilizer": "Phosphorus-rich fertilizers",
+    "water": "50%",
+    "medicine": ["Termiticide treatment"],
+    "organic_medicine": ["Neem oil", "Tobacco extract"],
+    "prevention": "Monitor soil and remove termite nests."
+  },
+  "Pod Fly": {
+    "fertilizer": "Balanced NPK",
+    "water": "Moderate",
+    "medicine": ["Insecticide spray"],
+    "organic_medicine": ["Neem oil", "Tobacco extract"],
+    "prevention": "Use traps and remove infected pods."
+  },
+  "Powdery Mildew": {
+    "fertilizer": "Potassium-rich fertilizers",
+    "water": "Reduce",
+    "medicine": ["Fungicide spray"],
+    "organic_medicine": ["Neem oil", "Baking soda solution"],
+    "prevention": "Avoid overcrowding and improve ventilation."
+  },
+  "Hairy Caterpillar": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["Insecticide spray"],
+    "organic_medicine": ["Neem oil", "Tobacco solution"],
+    "prevention": "Handpick caterpillars and maintain cleanliness."
+  },
+  "Leaf Caterpillar": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["Insecticide application"],
+    "organic_medicine": ["Neem oil"],
+    "prevention": "Remove affected leaves and control larvae."
+  },
+  "Bark Caterpillar": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["Insecticide spray"],
+    "organic_medicine": ["Neem oil paste"],
+    "prevention": "Remove infested bark and destroy larvae."
+  },
+  "bark damage tree": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["Insecticide"],
+    "organic_medicine": ["Neem oil paste"],
+    "prevention": "Protect bark and monitor pests."
+  },
+  "basal stem rot": {
+    "fertilizer": "Potassium-rich fertilizer",
+    "water": "Reduce",
+    "medicine": ["Fungicide drench"],
+    "organic_medicine": ["Neem cake"],
+    "prevention": "Ensure proper drainage and avoid soil moisture stress."
+  },
+  "blog": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["N/A"],
+    "organic_medicine": ["N/A"],
+    "prevention": "N/A"
+  },
+  "bud worm": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["Insecticide spray"],
+    "organic_medicine": ["Neem oil"],
+    "prevention": "Remove affected buds and control larvae."
+  },
+  "Bacterial Leaf Spot –": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["Copper fungicide spray"],
+    "organic_medicine": ["Neem oil"],
+    "prevention": "Remove affected leaves and maintain hygiene."
+  },
+  "Bacterial Wilt": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["Antibacterial treatment"],
+    "organic_medicine": ["Neem cake"],
+    "prevention": "Use disease-free seeds and crop rotation."
+  },
+  "Alternaria Leaf Blight": {
+    "fertilizer": "Potassium-rich fertilizers",
+    "water": "Moderate",
+    "medicine": ["Fungicide spray"],
+    "organic_medicine": ["Neem oil"],
+    "prevention": "Remove infected leaves and improve air circulation."
+  },
+  "Anthracnose": {
+    "fertilizer": "Potassium-rich fertilizers",
+    "water": "Moderate",
+    "medicine": ["Fungicide spray"],
+    "organic_medicine": ["Neem oil"],
+    "prevention": "Remove infected tissues and avoid overhead irrigation."
+  },
+  "Aphids": {
+    "fertilizer": "Balanced fertilizers",
+    "water": "Moderate",
+    "medicine": ["Insecticide spray"],
+    "organic_medicine": ["Neem oil", "Soap water"],
+    "prevention": "Monitor early and use sticky traps."
+  }
+}
